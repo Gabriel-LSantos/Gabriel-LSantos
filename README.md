@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Gabriel-LSantos
-- 👀 I’m interested in  entrar na área
-- 🌱 I’m currently learning ...Android e HTML
-- 💞️ I’m looking to collaborate on em projetos que envolvam android , HTML para fins de apredizagem
+- 👋 Hi, I’m Gabriel
+- 👀 I’m interested in entrar na área
+- 🌱 I’m currently learning ... Android e HTML
+- 💞️ I’m looking to collaborate on projetos que envolvam android , HTML para fins de apredizagem
 - 📫 How to reach me ... gabrielsantos908@live.com
 
 <!---
