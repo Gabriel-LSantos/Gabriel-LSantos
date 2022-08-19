@@ -5,6 +5,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-LSantos&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-  div style="display: inline_block"><br>
+<div style=
 	 <img align="center" alt="Gabriel-JAVA" height="80" width="100" src="https://icongr.am/devicon/java-original-wordmark.svg">
-  </div>
+	 <img align="center" alt="Gabriel-CSHARP" height="80" width="100" src="https://icongr.am/devicon/csharp-original.svg">
+	 <img align="center" alt="Gabriel-JSCRIP" height="80" width="100" src="https://icongr.am/devicon/javascript-original.svg">
+	 <img align="center" alt="Gabriel-VSTUDIO" height="80" width="100" src="https://icongr.am/devicon/javascript-original.svg">
+
+
+
+ </div>
+
