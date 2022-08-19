@@ -6,13 +6,13 @@
 </div>
 
 <div style= "display: inline_block"><br>
-	 <img align="center" alt="Gabriel-JAVA" height="60" width="60" src="https://icongr.am/devicon/java-original-wordmark.svg">
-	 <img align="center" alt="Gabriel-CSHARP" height="60" width="60" src="https://icongr.am/devicon/csharp-original.svg">
-	 <img align="center" alt="Gabriel-JSCRIP" height="60" width="60" src="https://icongr.am/devicon/javascript-original.svg">
-	 <img align="center" alt="Gabriel-VSTUDIO" height="60" width="60" src="https://icongr.am/devicon/visualstudio-plain.svg">
- 	 <img align="center" alt="Gabriel-ANDROID" height="60" width="60" src="https://icongr.am/devicon/android-original.svg">
-	 <img align="center" alt="Gabriel-HTML" height="60" width="60" src="https://icongr.am/devicon/html5-original-wordmark.svg">
-         <img align="center" alt="Gabriel-CSS" height="60" width="60" src="https://icongr.am/devicon/css3-original-wordmark.svg">
+	 <img align="center" alt="Gabriel-JAVA" height="50" width="60" src="https://icongr.am/devicon/java-original-wordmark.svg">
+	 <img align="center" alt="Gabriel-CSHARP" height="50" width="60" src="https://icongr.am/devicon/csharp-original.svg">
+	 <img align="center" alt="Gabriel-JSCRIP" height="50" width="60" src="https://icongr.am/devicon/javascript-original.svg">
+	 <img align="center" alt="Gabriel-VSTUDIO" height="50" width="60" src="https://icongr.am/devicon/visualstudio-plain.svg">
+ 	 <img align="center" alt="Gabriel-ANDROID" height="50" width="60" src="https://icongr.am/devicon/android-original.svg">
+	 <img align="center" alt="Gabriel-HTML" height="50" width="60" src="https://icongr.am/devicon/html5-original-wordmark.svg">
+         <img align="center" alt="Gabriel-CSS" height="50" width="60" src="https://icongr.am/devicon/css3-original-wordmark.svg">
 
  </div>
 
