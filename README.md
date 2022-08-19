@@ -6,7 +6,7 @@
 </div>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Android" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Gabriel-Android" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain-wordmark.svg">
  <img align="center" alt="Gabriel-Kotlin" height="180" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg">
 
 
