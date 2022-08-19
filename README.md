@@ -5,9 +5,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-LSantos&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<div style="display: inline_block"><br><div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Android" height="100" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
- <img align="center" alt="Gabriel-Kotlin" height="180" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg">
+ <img align="center" alt="Gabriel-JAVA" height="180" width="150" src="https://icongr.am/devicon/java-original-wordmark.svg">
  <img align="center" alt="Gabriel-CSHARP" height="80" width="80" src="https://icongr.am/devicon/csharp-original.svg">
 
 
