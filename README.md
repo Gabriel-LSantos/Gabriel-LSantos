@@ -14,7 +14,10 @@
 	 <img align="center" alt="Gabriel-HTML" height="80" width="100" src="https://icongr.am/devicon/html5-original-wordmark.svg">
          <img align="center" alt="Gabriel-CSS" height="80" width="100" src="https://icongr.am/devicon/css3-original-wordmark.svg">
 
-
-
-
  </div>
+
+	
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
+</div>
