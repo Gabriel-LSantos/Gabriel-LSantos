@@ -12,7 +12,7 @@
 	 <img align="center" alt="Gabriel-VSTUDIO" height="80" width="100" src="https://icongr.am/devicon/visualstudio-plain.svg">
  	 <img align="center" alt="Gabriel-ANDROID" height="80" width="100" src="https://icongr.am/devicon/android-original.svg">
 	 <img align="center" alt="Gabriel-HTML" height="80" width="100" src="https://icongr.am/devicon/html5-original-wordmark.svg">
-
+         <img align="center" alt="Gabriel-CSS" height="80" width="100" src="https://icongr.am/devicon/css3-original-wordmark.svg">
 
 
 
