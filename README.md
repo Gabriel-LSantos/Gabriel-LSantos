@@ -27,6 +27,7 @@ I am also a student at [SENAI | SP] and [UNINOVE | SP]
  <img align="center" alt="Gabriel-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-Csharp" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Gabriel-C" height="60" width="60" src="https://icongr.am/devicon/c-original.svg">
   <img align="center" alt="Gabriel-React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gabriel-Java" height="60" width="60" src="https://icongr.am/devicon/java-original-wordmark.svg">
   <img align="center" alt="Gabriel-Android" height="60" width="60" src="https://icongr.am/devicon/android-original-wordmark.svg">
