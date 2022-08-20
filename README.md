@@ -1,4 +1,6 @@
 ## Olá eu sou o Gabriel, seja bem-vindo(a) ao meu portfólio!
+## Hi, I'm Gabriel, welcome to my portfolio!
+
 <div align="center">
   <a href="https://github.com/Gabriel-LSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-LSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
