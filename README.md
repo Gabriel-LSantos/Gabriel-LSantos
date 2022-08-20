@@ -20,16 +20,27 @@ I am also a student at [SENAI | SP] and [UNINOVE | SP]
 </div>
 
 ##
-	
-<div style= "display: inline_block"><br>
-	 <img align="center" alt="Gabriel-JAVA" height="50" width="60" src="https://icongr.am/devicon/java-original-wordmark.svg">
-	 <img align="center" alt="Gabriel-CSHARP" height="50" width="60" src="https://icongr.am/devicon/csharp-original.svg">
-	 <img align="center" alt="Gabriel-JSCRIP" height="50" width="60" src="https://icongr.am/devicon/javascript-original.svg">
-	 <img align="center" alt="Gabriel-VSTUDIO" height="50" width="60" src="https://icongr.am/devicon/visualstudio-plain.svg">
- 	 <img align="center" alt="Gabriel-ANDROID" height="50" width="60" src="https://icongr.am/devicon/android-original.svg">
-	 <img align="center" alt="Gabriel-HTML" height="50" width="60" src="https://icongr.am/devicon/html5-original-wordmark.svg">
-         <img align="center" alt="Gabriel-CSS" height="50" width="60" src="https://icongr.am/devicon/css3-original-wordmark.svg">
- </div>
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+
+
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+
+
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+
+
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+
+
+</p>
+
+
 
 ##
 	
