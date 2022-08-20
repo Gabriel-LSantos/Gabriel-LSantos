@@ -1,5 +1,18 @@
-## Olá eu sou o Gabriel, seja bem-vindo(a) ao meu portfólio!
-## Hi, I'm Gabriel, welcome to my portfolio!
+Hi 👋 My name is Gabriel
+==========================
+
+Backend Software Developer
+-----------------------------
+
+I'm a 22 year old developer. I love coding and figuring out how to solve deep problems using high-end technology. My main focus is back-end development, making applications and systems that impact the lives of thousands of users.
+
+I am also a student at [SENAI | SP] and [UNINOVE | SP]
+
+* 🌍  I'm based in São Paulo, Brazil
+* ✉️  You can contact me at [gabrielsantos908@live.com](mailto:gabrielsantos908@live.com)
+* 🧠  I'm learning Java, C programming language, Kotlin, Javascript and .NET (C# CSHARP)
+* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
+
 
 <div align="center">
   <a href="https://github.com/Gabriel-LSantos">
