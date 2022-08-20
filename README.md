@@ -9,7 +9,7 @@ I'm a 22 year old developer. I love coding and figuring out how to solve deep pr
 I am also a student at [SENAI | SP] and [UNINOVE | SP]
 
 * 🌍  I'm based in São Paulo, Brazil
-* ✉️  You can contact me at [gabrielsantos908@live.com](mailto:gabrielsantos908@live.com) ou <a href="https://wa.me/5511939351368" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white target="_blank"></a> 
+* ✉️  You can contact me at [gabrielsantos908@live.com](mailto:gabrielsantos908@live.com) ou https://wa.me/5511939351368
 * 🧠  I'm learning Java, C programming language, Kotlin, Javascript and .NET (C# CSHARP)
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 
