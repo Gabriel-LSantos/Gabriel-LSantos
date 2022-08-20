@@ -13,6 +13,8 @@ I am also a student at [SENAI | SP] and [UNINOVE | SP]
 * 🧠  I'm learning Java, C programming language, Kotlin, Javascript and .NET (C# CSHARP)
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 
+<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 <div align="center">
   <a href="https://github.com/Gabriel-LSantos">
