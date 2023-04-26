@@ -22,7 +22,7 @@ I am also a student at [SENAI | SP] and [UNINOVE | SP]
 ##
 </div>
 
- <img align="center" alt="Gabriel-JAVA" height="60" width="60" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg">
+ <img align="center" alt="Gabriel-JAVA" height="50" width="60" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg">
  <img align="center" alt="Gabriel-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Gabriel-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
