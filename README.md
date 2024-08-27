@@ -1,17 +1,12 @@
-Hi 👋 My name is Gabriel
-==========================
+Meu nome é Gabriel, sou Supervisor de E-Commerce
 
-Backend Software Developer
------------------------------
+Iniciei minha carreira em 2019 como Auxiliar e me formei em Ciências da Computação pela Universidade Nove de Julho em 2024.
 
-I'm a 22 year old developer. I love coding and figuring out how to solve deep problems using high-end technology. My main focus is back-end development, making applications and systems that impact the lives of thousands of users.
+Ao longo dos anos, adquiri ampla experiência em qualidade de software, desenvolvimento Backend e Front End atuando em diversos contextos e produtos, incluindo software comercial, Trabalhei em setores com sistemas de ponto de venda, ERP, e-commerce, desenvolvendo habilidades em elaboração e execução de planos de teste em ambientes API, web, mobile e desktop.
 
-I am also a student at [SENAI | SP] and [UNINOVE | SP]
-
-* 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [gabrielsantos908@live.com](mailto:gabrielsantos908@live.com) ou https://wa.me/5511939351368
-* 🧠  I'm learning Java, C programming language, Kotlin, Javascript and .NET (C# CSHARP)
-* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
+
+“A melhor maneira de prever o futuro é criá-lo. – Abraham Lincoln”
 
 <div align="center">
   <a href="https://github.com/Gabriel-LSantos">
